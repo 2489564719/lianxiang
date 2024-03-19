@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="00c43d5f-01e7-490d-933d-906cdbd9289c" name="联想" url="http://192.168.10.9:8888">
+        <fileTransfer mountedRoot="C:\Users\WuXuecong\Desktop\lenovo.com" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>

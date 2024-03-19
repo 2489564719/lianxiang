@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<body>
+<script src="thirdParty/jquery.min.js"></script>
+<script src="thirdParty/fileSavor.js"></script>
+<script src="thirdParty/jszip.min.js"></script>
+<script src="js/background.js"></script>
